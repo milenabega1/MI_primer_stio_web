@@ -1,0 +1,48 @@
+.center-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.food-dog {
+  width: 23.5%;
+  background-color: #F9F9F9;
+	border: 1px solid #CCCCCC; padding: 3px;
+	font: 11px/1.4em Arial, sans-serif;
+  margin: 0.5em 0.8em 0.5em 0;
+  float:left;
+}
+
+.food-dog img {
+	width: 95%;
+	border: 1px solid #CCCCCC;
+	vertical-align:middle;
+	margin-bottom: 3px;
+}
+
+.article {
+  width: 48.5%;
+  background-color: #F9F9F9;
+	border: 1px solid #CCCCCC; padding: 3px;
+	font: 11px/1.4em Arial, sans-serif;
+  margin: 0.5em 0.8em 0.5em 0;
+  float:left;
+}
+
+.dog {
+  width: 45%;
+  background-color: #F9F9F9;
+	border: 1px solid #CCCCCC; padding: 3px;
+	font: 11px/1.4em Arial, sans-serif;
+  margin: 0.5em 0.8em 0.5em 0;
+  float:left;
+}
+.dog img {
+	width: 98%;
+	border: 1px solid #CCCCCC;
+	vertical-align:middle;
+	margin-bottom: 3px;
+}
+.network {
+	height: 70px;
+}
